@@ -1,7 +1,7 @@
 # MachineLearningWithPython
 This repository tracks my progress with respect to the IBM course Machine Learning With Python.<br>
 This is the link of the course<a href="https://www.coursera.org/programs/manipal-education-tguaf?currentTab=CATALOG&eoc=true&productId=8UjeMk-mEeit4g4GsxE4dg&productType=course&showMiniModal=true">(ML with Python)</a>
-<br>
+<br><br>
 This is the weekly splitup of the course.<br>
 Week 1:Introduction to Machine Learning<br><p>
 In this module, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. You’ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.</p>
