@@ -13,3 +13,6 @@ Week 4: Linear Classification <br>
 Week 5: Clustering<br><p>
 In this module, you will learn about clustering specifically k-means clustering. You learn how the k-means clustering algorithm works and how to use k-means clustering for customer segmentation.</p>
 Week 6: Final Exam and Project
+
+<h4>Other resources that I referred to alongside the course</h4>
+<a href='https://www.notion.so/ML-resources-ec39a024a6f64f81aaebcb3e526b5d83?pvs=4'>ML notes</a>
